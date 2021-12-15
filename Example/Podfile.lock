@@ -1,0 +1,16 @@
+PODS:
+  - Networking (0.1.0)
+
+DEPENDENCIES:
+  - Networking (from `../`)
+
+EXTERNAL SOURCES:
+  Networking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Networking: 61d47233c37ed04bc4841c276b91a6a0369892c4
+
+PODFILE CHECKSUM: 62a0b10b24733eabfcfc2b0def7b893dd541c567
+
+COCOAPODS: 1.11.2
